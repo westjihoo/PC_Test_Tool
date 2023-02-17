@@ -1,0 +1,49 @@
+<->[NORMAL]#00000001#Tue Aug  9 09:02:59 2022#FurMark 1.20.8.0 is starting up...
+<->[NORMAL]#00000002#Tue Aug  9 09:02:59 2022#FurMark folder: \\10.10.20.11\hansung\Windows\데스크탑 인젝션 usb폴더_2021\TEST-DT\App\FurMark\
+<->[NORMAL]#00000003#Tue Aug  9 09:02:59 2022#OpenGL renderer (main graphics card): Intel UHD Graphics 630
+<->[NORMAL]#00000004#Tue Aug  9 09:02:59 2022#OpenGL version detected: 4.6
+<->[NORMAL]#00000005#Tue Aug  9 09:02:59 2022#OpenGL max viewport size: 32768X32768 pixels
+<->[NORMAL]#00000006#Tue Aug  9 09:02:59 2022#Device ID string (main graphics card): PCI\VEN_10DE&DEV_1C91&SUBSYS_85521558&REV_A1
+<->[NORMAL]#00000007#Tue Aug  9 09:02:59 2022#CPU/System info:
+<->[NORMAL]#00000008#Tue Aug  9 09:02:59 2022#- CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+<->[NORMAL]#00000009#Tue Aug  9 09:03:00 2022#- CPU speed: 2400 MHz
+<->[NORMAL]#00000010#Tue Aug  9 09:03:00 2022#- System memory: 16184 MB
+<->[NORMAL]#00000011#Tue Aug  9 09:03:00 2022#- OS: Windows 10 64-bit build 19044
+<->[NORMAL]#00000012#Tue Aug  9 09:03:00 2022#Detecting GPUs...
+<->[NORMAL]#00000013#Tue Aug  9 09:03:00 2022#Found 2 GPUs.
+<->[NORMAL]#00000014#Tue Aug  9 09:03:00 2022#- GPU 1:  GeForce GTX 1050
+<->[NORMAL]#00000015#Tue Aug  9 09:03:00 2022#  - Cores: 768
+<->[NORMAL]#00000016#Tue Aug  9 09:03:00 2022#  - Memory size: 3071MB
+<->[NORMAL]#00000017#Tue Aug  9 09:03:00 2022#  - Memory type: GDDR5
+<->[NORMAL]#00000018#Tue Aug  9 09:03:00 2022#  - TDP: 0W
+<->[NORMAL]#00000019#Tue Aug  9 09:03:00 2022#  - Bus ID: 1
+<->[NORMAL]#00000020#Tue Aug  9 09:03:00 2022#  - Bios: 86.07.6d.00.39
+<->[NORMAL]#00000021#Tue Aug  9 09:03:00 2022#  - Graphics driver: R457.20
+<->[NORMAL]#00000022#Tue Aug  9 09:03:00 2022#  - GPU temperature: 50.0캜
+<->[NORMAL]#00000023#Tue Aug  9 09:03:00 2022#  - True clocks - GPU clock: 1366MHz - Memory clock: 3504MHz - GPU voltage: 0.000V
+<->[NORMAL]#00000024#Tue Aug  9 09:03:00 2022#  - GTX 600 series - GPU base clock: 1366MHz - GPU boost clock: 1442MHz
+<->[NORMAL]#00000025#Tue Aug  9 09:03:01 2022#  - PState 0 - GPU clock: 569MHz - Memory clock: 3504MHz - GPU voltage: 0.000V
+<->[NORMAL]#00000026#Tue Aug  9 09:03:01 2022#  - PState 3 - GPU clock: 569MHz - Memory clock: 2505MHz - GPU voltage: 0.000V
+<->[NORMAL]#00000027#Tue Aug  9 09:03:01 2022#  - PState 5 - GPU clock: 569MHz - Memory clock: 810MHz - GPU voltage: 0.000V
+<->[NORMAL]#00000028#Tue Aug  9 09:03:01 2022#  - PState 8 - GPU clock: 607MHz - Memory clock: 405MHz - GPU voltage: 0.000V
+<->[NORMAL]#00000029#Tue Aug  9 09:03:01 2022#  - Fan speed: -1%
+<->[NORMAL]#00000030#Tue Aug  9 09:03:01 2022#  - Fan speed: -1 RPM
+<->[NORMAL]#00000031#Tue Aug  9 09:03:01 2022#- GPU 2:  Intel(R) UHD Graphics 630
+<->[NORMAL]#00000032#Tue Aug  9 09:03:01 2022#  - Cores: 192
+<->[NORMAL]#00000033#Tue Aug  9 09:03:01 2022#  - Memory size: 1024MB
+<->[NORMAL]#00000034#Tue Aug  9 09:03:01 2022#  - Memory type: 
+<->[NORMAL]#00000035#Tue Aug  9 09:03:01 2022#  - TDP: 15W
+<->[NORMAL]#00000036#Tue Aug  9 09:03:01 2022#  - Bus ID: -1
+<->[NORMAL]#00000037#Tue Aug  9 09:03:01 2022#  - Bios: Intel Video BIOS
+<->[NORMAL]#00000038#Tue Aug  9 09:03:01 2022#  - Graphics driver: 27.20.100.9365
+<->[NORMAL]#00000039#Tue Aug  9 09:03:01 2022#no multi-GPU support (2 physical GPUs)
+<->[NORMAL]#00000040#Tue Aug  9 09:03:01 2022#GPU monitoring thread started up ok.
+<->[NORMAL]#00000041#Tue Aug  9 09:03:01 2022#oZone3D Engine is starting up - kernel build: [v3.4.0 - Dec 29 2018 @ 11:09:53] - codename: Zhadanas
+<->[NORMAL]#00000042#Tue Aug  9 09:03:01 2022#oZone3D initialization in progress...
+<->[NORMAL]#00000043#Tue Aug  9 09:03:01 2022#oZone3D - OpenGL renderer creation ok.
+<->[NORMAL]#00000044#Tue Aug  9 09:03:01 2022#o3RendererOpenGL INFO: OpenGL version: 4.6.0 NVIDIA 457.20
+<->[NORMAL]#00000045#Tue Aug  9 09:03:01 2022#o3RendererOpenGL INFO: OpenGL Shading Language (GLSL) version: 4.60 NVIDIA
+<->[NORMAL]#00000046#Tue Aug  9 09:03:01 2022#oZone3D initialization ok.
+<->[NORMAL]#00000047#Tue Aug  9 09:03:01 2022#Render thread - affinity mask set to 0
+<->[NORMAL]#00000048#Tue Aug  9 09:03:27 2022#oZone3D shutdown ok.
+<->[NORMAL]#00000049#Tue Aug  9 09:03:27 2022#FurMark shutdown OK.
